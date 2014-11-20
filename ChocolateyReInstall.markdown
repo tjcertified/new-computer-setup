@@ -34,3 +34,4 @@ Chocolatey reinstalls
 * wireshark
 * quicktime
 * EthanBrown.ConEmuConfig
+* freecommander
